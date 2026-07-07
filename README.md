@@ -158,7 +158,7 @@ After cleaning the dataset, exploratory data analysis was performed to identify 
 
 # Project Outcome
 
-This project demonstrates a complete SQL workflow—from cleaning raw data to generating meaningful business insights. It showcases practical data preparation techniques, analytical SQL queries, and the ability to transform messy datasets into reliable information for decision-making.
+This project demonstrates a complete SQL workflow-from cleaning raw data to generating meaningful business insights. It showcases practical data preparation techniques, analytical SQL queries, and the ability to transform messy datasets into reliable information for decision-making.
 
 
 The final cleaned dataset is suitable for further visualization in tools such as Power BI or Tableau and can serve as a foundation for advanced analytics.
